@@ -1,0 +1,6 @@
+c:\users\91771\onedrive\documents\visual studio 2010\Projects\Grocery Shopping Website\Grocery Shopping Website\bin\Grocery Shopping Website.dll
+c:\users\91771\onedrive\documents\visual studio 2010\Projects\Grocery Shopping Website\Grocery Shopping Website\bin\Grocery Shopping Website.pdb
+c:\users\91771\onedrive\documents\visual studio 2010\Projects\Grocery Shopping Website\Grocery Shopping Website\obj\Debug\Grocery Shopping Website.dll
+c:\users\91771\onedrive\documents\visual studio 2010\Projects\Grocery Shopping Website\Grocery Shopping Website\obj\Debug\Grocery Shopping Website.pdb
+C:\Users\91771\onedrive\documents\visual studio 2010\Projects\Grocery Shopping Website\Grocery Shopping Website\obj\Debug\Grocery Shopping Website.csprojResolveAssemblyReference.cache
+C:\Users\91771\onedrive\documents\visual studio 2010\Projects\Grocery Shopping Website\Grocery Shopping Website\bin\itextsharp.xml

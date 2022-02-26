@@ -1,0 +1,53 @@
+﻿body
+{
+    color:Black;
+    }
+#container
+{
+     position:absolute;
+    top:100px;
+    width:210px;
+    text-align:center;
+    left:40%;
+    font-family:Sans-Serif;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding:80px;
+}
+#username
+{
+    display:inline-block;
+    text-align:right;
+    float:left;
+    margin-bottom:5px;
+}
+#password
+{
+    display:inline-block;
+    text-align:right;
+    float:left;
+    margin-bottom:5px;
+}
+#txtUser
+{
+    margin-bottom:15px;
+}
+#txtPass
+{
+    margin-bottom:15px;
+}
+#btnLogin
+{
+    padding:10px;
+    border-radius: 5px;
+    color:White;
+    background-color:Black;
+    font-size:14px;
+}
+#Adminlogin
+{
+    padding:10px;
+    border-radius: 5px;
+    color:White;
+    background-color:Black;
+    font-size:14px;
+}

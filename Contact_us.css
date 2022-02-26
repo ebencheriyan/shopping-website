@@ -1,0 +1,97 @@
+﻿.wrapper{
+    min-height: 100%;
+}
+.header h1{
+    position: relative; /*allows element to be shifted top,right botttom*/
+    color: white;/*sets color of text*/
+    font-family: helvetica ;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+    width:100%;
+        
+}
+.header {
+    position: fixed;
+    width:100%;
+    top:0px;
+    left:0px;
+    
+}
+.header nav{
+    position: fixed;
+    right:1px;
+    top:0px;
+    } 
+
+.header ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    
+}
+.header li{
+    
+    display: inline-block;
+padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 60px;
+}
+.header a{
+    display: inline-block;
+    padding: 10px 10px;
+    color: white;
+    border-radius: 10px;
+    font-size:15pt;
+    font-family:sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover{
+    background-color: white;
+    color: black;
+}
+a:active{
+    background-color: white;
+    color: black;
+}
+#container
+{
+    position:absolute;
+    top:100px;
+    width:210px;
+    text-align:center;
+    left:40%;
+    font-family:Sans-Serif;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding:80px;
+}
+
+#lblUsername
+{
+    display:inline-block;
+    text-align:right;
+    float:left;
+    margin-bottom:5px;
+}
+#lblMessage
+{
+    display:inline-block;
+    text-align:right;
+    float:left;
+    margin-bottom:5px;
+    font-size:16px;
+   
+}
+#btnSubmit
+{
+    display:inline-block;
+    text-align:right;
+    float:left;
+    margin:20px;
+}
+#txtUsername
+{
+    margin-bottom:15px;
+}
